@@ -1,0 +1,10 @@
+.images {
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+.images img {
+  display: inline-block;
+  width: 200px; /* Adjust the desired width of the images */
+  height: 200px; /* Adjust the desired height of the images */
+}
